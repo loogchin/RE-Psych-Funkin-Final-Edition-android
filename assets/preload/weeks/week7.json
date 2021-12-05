@@ -1,0 +1,48 @@
+{
+	"storyName": "tankman",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "week6",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"tankman",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Ugh",
+			"tankman",
+			[
+				255,
+				162,
+				24
+			]
+		],
+		[
+			"Guns",
+			"tankman",
+			[
+				255,
+				162,
+				24
+			]
+		],
+		[
+			"Stress",
+			"tankman",
+			[
+				255,
+				162,
+				24
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week7"
+}
